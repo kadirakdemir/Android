@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tuş Takip</string>
+    <string name="skorTV">Skor</string>
+    <string name="hataTV">Hata</string>
+    <string name="sonucTV">Sonuç</string>
+    <string name="tekrarBtn">Tekrar</string>
+    <string name="cikisBtn">Çıkış</string>
+    <string name="zamanTv" translatable="false">Süre</string>
+    <string name="title_activity_sidebar">Sidebar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_solmenu">solmenu</string>
+</resources>
